@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.wrapper {
+    width: 320px;
+    margin: 0 auto;
+    background-color: teal;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+}
+
+select, button {
+    font-size: 16px;
+    padding: 5px;
+}
+
+button {
+    margin-left: 10px;
+}
